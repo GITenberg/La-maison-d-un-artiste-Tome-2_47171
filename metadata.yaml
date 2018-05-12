@@ -1,4 +1,8 @@
 _repo: La-maison-d-un-artiste-Tome-2_47171
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47171-h/images/cover.jpg
 creator:
   author:
     agent_name: Goncourt, Edmond de
@@ -13,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
     - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47171#La-maison-d-un-artiste-Tome-2
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-10-22'
 gutenberg_type: Text
